@@ -4,5 +4,6 @@ module.exports = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     domains: ["res.cloudinary.com"],
     loader: "cloudinary",
+    path: "https://res.cloudinary.com/dljazkzna",
   },
 };

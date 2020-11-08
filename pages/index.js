@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "components/image";
 
 // eslint-disable-next-line no-restricted-syntax
 export default function Page() {
@@ -8,17 +8,20 @@ export default function Page() {
 
       <p>Standart image</p>
       <img
-        src="https://res.cloudinary.com/dljazkzna/image/upload/v1604679134/img/63.jpg"
+        src="https://res.cloudinary.com/dljazkzna/image/upload/v1604677935/img/1053.jpg"
         alt=""
         width="200"
       />
       <p>NextJS Image component</p>
       <Image
-        src="https://res.cloudinary.com/dljazkzna/image/upload/v1604679134/img/63.jpg"
-        alt="Picture of the author"
+        alt="Cloudinary image"
         width={300}
         height={300}
+        src="/image/upload/v1604677935/img/1053.jpg"
       />
     </>
   );
 }
+
+// "https://res.cloudinary.com/dljazkzna/image/upload/v1604677935/img/1053.jpg"
+// <Image cloudName="doqurzmbt" publicId="google-analytics-ux_g6w5ti" width="300" crop="scale" />

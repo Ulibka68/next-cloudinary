@@ -1,0 +1,22 @@
+{
+  "url": "http://res.cloudinary.com/dljazkzna/image/upload/v1604677935/img/1053.jpg",
+  "etag": "a4209fb1ea1b830680c23c8bb8bb408d",
+  "tags": [
+    "img"
+  ],
+  "type": "upload",
+  "bytes": 341914,
+  "width": 780,
+  "format": "jpg",
+  "height": 780,
+  "version": 1604677935,
+  "asset_id": "c0b0349f5d04709034b2e920d071174a",
+  "public_id": "img/1053",
+  "signature": "e8020c83a74710be4e9cc489bf52cf2bdc77854d",
+  "created_at": "2020-11-06T15:52:15Z",
+  "secure_url": "https://res.cloudinary.com/dljazkzna/image/upload/v1604677935/img/1053.jpg",
+  "version_id": "4cab9f6e19f50be8322acecaed0594e3",
+  "placeholder": false,
+  "resource_type": "image",
+  "original_filename": "1053"
+}
