@@ -18,7 +18,7 @@ export default function Page() {
         alt="Cloudinary image"
         width={300}
         height={300}
-        src="https://res.cloudinary.com/dljazkzna/image/upload/v1604677935/img/1053.jpg"
+        src="dljazkzna/img/1053"
       />
     </>
   );
