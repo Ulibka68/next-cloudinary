@@ -1,4 +1,5 @@
-import Image from "components/image";
+// import Image from "components/image";
+import Image from "next/image";
 
 // eslint-disable-next-line no-restricted-syntax
 export default function Page() {
@@ -17,7 +18,7 @@ export default function Page() {
         alt="Cloudinary image"
         width={300}
         height={300}
-        src="/image/upload/v1604677935/img/1053.jpg"
+        src="https://res.cloudinary.com/dljazkzna/image/upload/v1604677935/img/1053.jpg"
       />
     </>
   );
